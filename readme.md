@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/RyanBritt217/Project-ASTRO/refs/heads/main/ASTRO%20Emblem.png)
+![Logo](https://raw.githubusercontent.com/RyanBritt217/Project-ASTRO/refs/heads/main/ASTRO%20Emblem2.png)
 
 
 # Project ASTRO
